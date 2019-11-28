@@ -10,6 +10,6 @@ public class Main {
         System.out.println("Test wspolny trzeci6!");
         System.out.println("Test wspolny trzeci7!");
         System.out.println("Test wspolny trzeci8!");
-
+        System.out.println("Test wspolny trzeci9!");
     }
 }

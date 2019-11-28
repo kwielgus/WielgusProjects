@@ -8,5 +8,6 @@ public class Main {
         System.out.println("Test wspolny trzeci2!");
         System.out.println("Test wspolny trzeci4!");
         System.out.println("Test wspolny trzeci6!");
+        System.out.println("Test wspolny trzeci7!");
     }
 }
